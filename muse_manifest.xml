@@ -1,0 +1,248 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.aviators.co.ke" resolutions="1x" timestamp="1478595810669">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="4187524341" ref="support:meeting---boardrooms:index:about-aviators:serviced-offices:virtual-offices:table-layout:gallery"/>
+    <file name="support.css" crc="3762881240" ref="support"/>
+    <file name="meeting---boardrooms.css" crc="418141058" ref="meeting---boardrooms"/>
+    <file name="index.css" crc="335798942" ref="index"/>
+    <file name="contact-us.css" crc="4251318827" ref="contact-us"/>
+    <file name="about-aviators.css" crc="63557416" ref="about-aviators"/>
+    <file name="serviced-offices.css" crc="289883251" ref="serviced-offices"/>
+    <file name="virtual-offices.css" crc="159964943" ref="virtual-offices"/>
+    <file name="table-layout.css" crc="3770434570" ref="table-layout"/>
+    <file name="gallery.css" crc="190139089" ref="gallery"/>
+    <file name="master_master-without-details.css" crc="502960774" ref="contact-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:contact-us:gallery:about-aviators:serviced-offices:table-layout:virtual-offices:meeting---boardrooms:support"/>
+    <file name="museutils.js" crc="183364071" ref="index:contact-us:gallery:about-aviators:serviced-offices:table-layout:virtual-offices:meeting---boardrooms:support"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:contact-us:gallery:about-aviators:serviced-offices:table-layout:virtual-offices:meeting---boardrooms:support"/>
+    <file name="webpro.js" crc="3803554875" ref="index:contact-us:gallery:about-aviators:serviced-offices:virtual-offices:meeting---boardrooms:support:table-layout"/>
+    <file name="form_check.php" crc="277267350" ref="index:contact-us:gallery:about-aviators:serviced-offices:virtual-offices:meeting---boardrooms:support"/>
+    <file name="form_throttle.php" crc="3908387251" ref="index:contact-us:gallery:about-aviators:serviced-offices:virtual-offices:meeting---boardrooms:support"/>
+    <file name="form_process.php" crc="24249335" ref="index:contact-us:gallery:about-aviators:serviced-offices:virtual-offices:meeting---boardrooms:support"/>
+    <file name="form-u492.php" crc="3853535756" ref="index"/>
+    <file name="form-u530.php" crc="3815521368" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3993616448" ref="index:contact-us:gallery:about-aviators:serviced-offices:virtual-offices:meeting---boardrooms:support"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:contact-us:gallery:about-aviators:serviced-offices:table-layout:virtual-offices:meeting---boardrooms:support"/>
+    <file name="pie.js" crc="3827607177" ref="index:contact-us:gallery:about-aviators:serviced-offices:virtual-offices:meeting---boardrooms:support"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index:contact-us:gallery:about-aviators:serviced-offices:virtual-offices:meeting---boardrooms:support:table-layout"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index:contact-us:gallery:about-aviators:serviced-offices:virtual-offices:meeting---boardrooms:support:table-layout"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index:contact-us:gallery:about-aviators:serviced-offices:virtual-offices:meeting---boardrooms:support:table-layout"/>
+    <file name="form-u811.php" crc="4175596516" ref="contact-us"/>
+    <file name="form-u780.php" crc="399896904" ref="contact-us"/>
+    <file name="form-u1012.php" crc="4007021606" ref="contact-us"/>
+    <file name="form-u1072.php" crc="3914418139" ref="gallery"/>
+    <file name="form-u1116.php" crc="3772568605" ref="gallery"/>
+    <file name="form-u1626.php" crc="146067087" ref="about-aviators"/>
+    <file name="form-u1594.php" crc="362016470" ref="about-aviators"/>
+    <file name="form-u1906.php" crc="112638123" ref="serviced-offices"/>
+    <file name="form-u1943.php" crc="3892184069" ref="serviced-offices"/>
+    <file name="form-u3058.php" crc="4157943402" ref="virtual-offices"/>
+    <file name="form-u3094.php" crc="383932076" ref="virtual-offices"/>
+    <file name="form-u3853.php" crc="454880819" ref="meeting---boardrooms"/>
+    <file name="form-u3889.php" crc="236727258" ref="meeting---boardrooms"/>
+    <file name="form-u3760.php" crc="44822739" ref="support"/>
+    <file name="form-u3720.php" crc="4225996636" ref="support"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.svg" crc="4203905807" ref="index:contact-us:gallery:about-aviators:serviced-offices:table-layout:virtual-offices:meeting---boardrooms:support"/>
+    <file name="logo_poster_.png" crc="4248596011" ref="index"/>
+    <file name="u483-grad.png" crc="4235915829" ref="index:gallery:about-aviators:serviced-offices:virtual-offices:meeting---boardrooms:support:contact-us"/>
+    <file name="u483-a-grad.png" crc="353847194" ref="index:gallery:about-aviators:serviced-offices:virtual-offices:meeting---boardrooms:support:contact-us"/>
+    <file name="u500-17.png" crc="180165795" ref="index"/>
+    <file name="u500-17-r.png" crc="225202416" ref="index"/>
+    <file name="u500-17-m.png" crc="225202416" ref="index"/>
+    <file name="u500-17-fs.png" crc="216109413" ref="index"/>
+    <file name="u549-17.png" crc="345263430" ref="index"/>
+    <file name="u549-17-r.png" crc="529391084" ref="index"/>
+    <file name="u549-17-m.png" crc="529391084" ref="index"/>
+    <file name="u549-17-fs.png" crc="514296537" ref="index"/>
+    <file name="u489-4.png" crc="4065937151" ref="index"/>
+    <file name="u569-4.png" crc="3858638190" ref="index"/>
+    <file name="u461-4.png" crc="3874268093" ref="index"/>
+    <file name="u2072-4.png" crc="471059524" ref="index"/>
+    <file name="chair.svg" crc="53756583" ref="index:serviced-offices"/>
+    <file name="chair_poster_.png" crc="31497041" ref="index"/>
+    <file name="desk-2.svg" crc="4155929770" ref="index:virtual-offices"/>
+    <file name="desk-2_poster_.png" crc="4040888919" ref="index"/>
+    <file name="group-meeting.svg" crc="13111561" ref="index:meeting---boardrooms"/>
+    <file name="group-meeting_poster_.png" crc="29237730" ref="index"/>
+    <file name="support.svg" crc="354131632" ref="index:support"/>
+    <file name="support_poster_.png" crc="3803259030" ref="index"/>
+    <file name="u813-17.png" crc="180165795" ref="contact-us"/>
+    <file name="u813-17-r.png" crc="225202416" ref="contact-us"/>
+    <file name="u813-17-m.png" crc="225202416" ref="contact-us"/>
+    <file name="u813-17-fs.png" crc="216109413" ref="contact-us"/>
+    <file name="u789-17.png" crc="345263430" ref="contact-us"/>
+    <file name="u789-17-r.png" crc="529391084" ref="contact-us"/>
+    <file name="u789-17-m.png" crc="529391084" ref="contact-us"/>
+    <file name="u789-17-fs.png" crc="514296537" ref="contact-us"/>
+    <file name="u848-4.png" crc="4065937151" ref="contact-us"/>
+    <file name="u849-4.png" crc="3858638190" ref="contact-us"/>
+    <file name="coffee.jpg" crc="3786109785" ref="contact-us"/>
+    <file name="u950-4.png" crc="4212175166" ref="contact-us"/>
+    <file name="u975-6.png" crc="4128804955" ref="contact-us"/>
+    <file name="u1017-17.png" crc="418490909" ref="contact-us"/>
+    <file name="u1017-17-r.png" crc="3812137466" ref="contact-us"/>
+    <file name="u1017-17-m.png" crc="3812137466" ref="contact-us"/>
+    <file name="u1017-17-fs.png" crc="3986968940" ref="contact-us"/>
+    <file name="u1078-17.png" crc="180165795" ref="gallery"/>
+    <file name="u1078-17-r.png" crc="225202416" ref="gallery"/>
+    <file name="u1078-17-m.png" crc="225202416" ref="gallery"/>
+    <file name="u1078-17-fs.png" crc="216109413" ref="gallery"/>
+    <file name="u1121-17.png" crc="345263430" ref="gallery"/>
+    <file name="u1121-17-r.png" crc="529391084" ref="gallery"/>
+    <file name="u1121-17-m.png" crc="529391084" ref="gallery"/>
+    <file name="u1121-17-fs.png" crc="514296537" ref="gallery"/>
+    <file name="u1112-4.png" crc="4065937151" ref="gallery"/>
+    <file name="u1113-4.png" crc="3858638190" ref="gallery"/>
+    <file name="photo.jpg" crc="4159028383" ref="gallery"/>
+    <file name="u1188-4.png" crc="3805964937" ref="gallery"/>
+    <file name="u1203-4.png" crc="10064302" ref="gallery"/>
+    <file name="blank.gif" crc="4208392903" ref="gallery"/>
+    <file name="banner_about_2.jpg" crc="4007224326" seo="true" ref="gallery"/>
+    <file name="about_us_3.jpg" crc="282451163" seo="true" ref="gallery"/>
+    <file name="banner_contact_us.jpg" crc="161360319" seo="true" ref="gallery"/>
+    <file name="while you are on duty.jpg" crc="3978480115" seo="true" ref="gallery"/>
+    <file name="banner_about_2345x231.jpg" crc="4213850405" seo="true" ref="gallery"/>
+    <file name="about_us_3312x235.jpg" crc="256393942" seo="true" ref="gallery"/>
+    <file name="banner_contact_us-crop-u1376.jpg" crc="3772015647" ref="gallery"/>
+    <file name="while you are on duty-crop-u1378.jpg" crc="165834350" ref="gallery"/>
+    <file name="loading.gif" crc="3815509949" ref="gallery"/>
+    <file name="u1631-17.png" crc="180165795" ref="about-aviators"/>
+    <file name="u1631-17-r.png" crc="225202416" ref="about-aviators"/>
+    <file name="u1631-17-m.png" crc="225202416" ref="about-aviators"/>
+    <file name="u1631-17-fs.png" crc="216109413" ref="about-aviators"/>
+    <file name="u1613-17.png" crc="345263430" ref="about-aviators"/>
+    <file name="u1613-17-r.png" crc="529391084" ref="about-aviators"/>
+    <file name="u1613-17-m.png" crc="529391084" ref="about-aviators"/>
+    <file name="u1613-17-fs.png" crc="514296537" ref="about-aviators"/>
+    <file name="u1666-4.png" crc="4065937151" ref="about-aviators"/>
+    <file name="u1665-4.png" crc="3858638190" ref="about-aviators"/>
+    <file name="u1681-4.png" crc="331167561" ref="about-aviators"/>
+    <file name="screen shot 2016-08-18 at 84731 am.jpg" crc="4051169813" ref="about-aviators"/>
+    <file name="u1668-6.png" crc="31803326" ref="about-aviators"/>
+    <file name="u1765-6.png" crc="44161327" ref="about-aviators"/>
+    <file name="u1769-6.png" crc="845512" ref="about-aviators"/>
+    <file name="u1755-4.png" crc="4155624349" ref="about-aviators"/>
+    <file name="screen shot 2016-08-18 at 84704 am.jpg" crc="484644470" ref="about-aviators"/>
+    <file name="u1773-6.png" crc="3901326615" ref="about-aviators"/>
+    <file name="u1778-6.png" crc="243235021" ref="about-aviators"/>
+    <file name="u1756-4.png" crc="4271794371" ref="about-aviators"/>
+    <file name="u1938-17.png" crc="180165795" ref="serviced-offices"/>
+    <file name="u1938-17-r.png" crc="225202416" ref="serviced-offices"/>
+    <file name="u1938-17-m.png" crc="225202416" ref="serviced-offices"/>
+    <file name="u1938-17-fs.png" crc="216109413" ref="serviced-offices"/>
+    <file name="u1949-17.png" crc="345263430" ref="serviced-offices"/>
+    <file name="u1949-17-r.png" crc="529391084" ref="serviced-offices"/>
+    <file name="u1949-17-m.png" crc="529391084" ref="serviced-offices"/>
+    <file name="u1949-17-fs.png" crc="514296537" ref="serviced-offices"/>
+    <file name="u1900-4.png" crc="4065937151" ref="serviced-offices"/>
+    <file name="u1899-4.png" crc="3858638190" ref="serviced-offices"/>
+    <file name="u2018-4.png" crc="3773696569" ref="serviced-offices"/>
+    <file name="u2034-4.png" crc="4001815815" ref="serviced-offices"/>
+    <file name="check_red.png" crc="3878074063" ref="serviced-offices:table-layout:virtual-offices:meeting---boardrooms"/>
+    <file name="x_red.png" crc="4058981500" ref="table-layout"/>
+    <file name="check_blue.jpg" crc="4220650069" ref="table-layout"/>
+    <file name="x_blue.jpg" crc="4177572461" ref="table-layout"/>
+    <file name="u3067-17.png" crc="180165795" ref="virtual-offices"/>
+    <file name="u3067-17-r.png" crc="225202416" ref="virtual-offices"/>
+    <file name="u3067-17-m.png" crc="225202416" ref="virtual-offices"/>
+    <file name="u3067-17-fs.png" crc="216109413" ref="virtual-offices"/>
+    <file name="u3105-17.png" crc="345263430" ref="virtual-offices"/>
+    <file name="u3105-17-r.png" crc="529391084" ref="virtual-offices"/>
+    <file name="u3105-17-m.png" crc="529391084" ref="virtual-offices"/>
+    <file name="u3105-17-fs.png" crc="514296537" ref="virtual-offices"/>
+    <file name="u3127-4.png" crc="4065937151" ref="virtual-offices"/>
+    <file name="u3128-4.png" crc="3858638190" ref="virtual-offices"/>
+    <file name="o-black-men-office-facebook.jpg" crc="3855929594" ref="support"/>
+    <file name="u3141-4.png" crc="429247814" ref="virtual-offices"/>
+    <file name="u3223-4.png" crc="101801745" ref="virtual-offices"/>
+    <file name="u3218-4.png" crc="308188731" ref="virtual-offices"/>
+    <file name="u3217-4.png" crc="14688986" ref="virtual-offices"/>
+    <file name="u3225-4.png" crc="4100270100" ref="virtual-offices"/>
+    <file name="u3858-17.png" crc="180165795" ref="meeting---boardrooms"/>
+    <file name="u3858-17-r.png" crc="225202416" ref="meeting---boardrooms"/>
+    <file name="u3858-17-m.png" crc="225202416" ref="meeting---boardrooms"/>
+    <file name="u3858-17-fs.png" crc="216109413" ref="meeting---boardrooms"/>
+    <file name="u3891-17.png" crc="345263430" ref="meeting---boardrooms"/>
+    <file name="u3891-17-r.png" crc="529391084" ref="meeting---boardrooms"/>
+    <file name="u3891-17-m.png" crc="529391084" ref="meeting---boardrooms"/>
+    <file name="u3891-17-fs.png" crc="514296537" ref="meeting---boardrooms"/>
+    <file name="u3847-4.png" crc="4065937151" ref="meeting---boardrooms"/>
+    <file name="u3849-4.png" crc="3858638190" ref="meeting---boardrooms"/>
+    <file name="black-woman-in-a-meeting.jpg" crc="3904054041" ref="meeting---boardrooms"/>
+    <file name="u3380-4.png" crc="233154848" ref="meeting---boardrooms"/>
+    <file name="u3311-4.png" crc="308188731" ref="meeting---boardrooms"/>
+    <file name="u3313-4.png" crc="14688986" ref="meeting---boardrooms"/>
+    <file name="u3381-4.png" crc="4100270100" ref="meeting---boardrooms"/>
+    <file name="u3792-17.png" crc="180165795" ref="support"/>
+    <file name="u3792-17-r.png" crc="225202416" ref="support"/>
+    <file name="u3792-17-m.png" crc="225202416" ref="support"/>
+    <file name="u3792-17-fs.png" crc="216109413" ref="support"/>
+    <file name="u3737-17.png" crc="345263430" ref="support"/>
+    <file name="u3737-17-r.png" crc="529391084" ref="support"/>
+    <file name="u3737-17-m.png" crc="529391084" ref="support"/>
+    <file name="u3737-17-fs.png" crc="514296537" ref="support"/>
+    <file name="u3753-4.png" crc="4065937151" ref="support"/>
+    <file name="u3752-4.png" crc="3858638190" ref="support"/>
+    <file name="u3715-4.png" crc="4198694890" ref="support"/>
+    <file name="u3793-4.png" crc="83482933" ref="support"/>
+    <file name="u3569-4.png" crc="308188731" ref="support"/>
+    <file name="u3696-4.png" crc="14688986" ref="support"/>
+    <file name="u3562-4.png" crc="4100270100" ref="support"/>
+    <file name="favicon.ico" crc="4167734149" ref="index"/>
+    <file name="socialmedia_facebook.svg" crc="106572729" ref="index:contact-us:gallery:about-aviators:serviced-offices:table-layout:virtual-offices:meeting---boardrooms:support"/>
+    <file name="socialmedia_facebook_poster_.png" crc="3971981750" ref="index"/>
+    <file name="socialmedia_twitter.svg" crc="4240988281" ref="index:contact-us:gallery:about-aviators:serviced-offices:table-layout:virtual-offices:meeting---boardrooms:support"/>
+    <file name="socialmedia_twitter_poster_.png" crc="52526415" ref="index"/>
+    <file name="socialmedia_instagramai.svg" crc="4149898631" ref="index:contact-us:gallery:about-aviators:serviced-offices:table-layout:virtual-offices:meeting---boardrooms:support"/>
+    <file name="socialmedia_instagramai_poster_.png" crc="209870860" ref="index"/>
+    <file name="img-20161031-wa001.jpg" crc="361805936" seo="true" ref="index:gallery"/>
+    <file name="u4524-4.png" crc="177192457" ref="index:gallery:about-aviators:serviced-offices:table-layout:virtual-offices:meeting---boardrooms:support"/>
+    <file name="u4526-4.png" crc="402734112" ref="index:gallery:about-aviators:serviced-offices:table-layout:virtual-offices:meeting---boardrooms:support"/>
+    <file name="u4527-4.png" crc="4014950435" ref="index:gallery:about-aviators:serviced-offices:table-layout:virtual-offices:meeting---boardrooms:support"/>
+    <file name="img-20161031-wa000.jpg" crc="179614295" seo="true" ref="gallery"/>
+    <file name="img-20161031-wa002.jpg" crc="180877371" seo="true" ref="gallery"/>
+    <file name="img-20161031-wa003.jpg" crc="418826311" ref="gallery:about-aviators"/>
+    <file name="img-20161031-wa004.jpg" crc="3935523660" seo="true" ref="gallery"/>
+    <file name="img-20161031-wa005.jpg" crc="299622082" seo="true" ref="gallery"/>
+    <file name="img-20161031-wa006.jpg" crc="335411051" seo="true" ref="gallery"/>
+    <file name="img-20161031-wa000346x230.jpg" crc="174749759" seo="true" ref="gallery"/>
+    <file name="img-20161031-wa001346x230.jpg" crc="144200672" seo="true" ref="gallery"/>
+    <file name="img-20161031-wa002346x230.jpg" crc="4150819097" seo="true" ref="gallery"/>
+    <file name="img-20161031-wa003346x230.jpg" crc="3917408621" seo="true" ref="gallery"/>
+    <file name="img-20161031-wa004346x230.jpg" crc="3962460056" seo="true" ref="gallery"/>
+    <file name="img-20161031-wa005346x230.jpg" crc="4147286928" seo="true" ref="gallery"/>
+    <file name="img-20161031-wa006346x230.jpg" crc="460290303" seo="true" ref="gallery"/>
+    <file name="u4694-6.png" crc="158858908" ref="about-aviators"/>
+    <file name="img_20161018_151424.jpg" crc="407528532" ref="serviced-offices"/>
+    <file name="img_20161018_152033.jpg" crc="499423020" ref="virtual-offices"/>
+    <file name="u3482-6.png" crc="60437060" ref="meeting---boardrooms"/>
+    <file name="support_computer repair.jpg" crc="198675771" ref="support"/>
+    <file name="u4340-4.png" crc="321033408" ref="support"/>
+    <file name="u4341-4.png" crc="3775432895" ref="support"/>
+    <file name="support_web design.jpg" crc="4219045448" ref="support"/>
+    <file name="733686697-briefing-business-meeting-conference-room-shirt.jpg" crc="4235198516" ref="support"/>
+    <file name="u4343-4.png" crc="3758835265" ref="support"/>
+    <file name="o-black-podcasts-facebook.jpg" crc="4049523015" ref="index:contact-us"/>
+    <file name="business_woman_1434943391.jpg" crc="4210642337" ref="index:contact-us"/>
+    <file name="relax-desk-man-diversity-reduced_adobestock-2.jpg" crc="3819603828" ref="index:contact-us"/>
+    <file name="u720-6.png" crc="3950788760" ref="index:gallery:about-aviators:serviced-offices:table-layout:virtual-offices:meeting---boardrooms:support"/>
+    <file name="u721-6.png" crc="318444307" ref="index:gallery:about-aviators:serviced-offices:table-layout:virtual-offices:meeting---boardrooms:support"/>
+    <file name="u722-6.png" crc="375337886" ref="index:gallery:about-aviators:serviced-offices:table-layout:virtual-offices:meeting---boardrooms:support"/>
+    <file name="u4596-6.png" crc="3950788760" ref="contact-us"/>
+    <file name="u4597-6.png" crc="318444307" ref="contact-us"/>
+    <file name="u4586-6.png" crc="375337886" ref="contact-us"/>
+  </folder>
+  <file name="index.html" crc="4122113231" seo="true" mt="1478595774395" redirect="true"/>
+  <file name="contact-us.html" crc="3765416130" seo="true" mt="1478595774396" redirect="true"/>
+  <file name="gallery.html" crc="3771505319" seo="true" mt="1478595774395" redirect="true"/>
+  <file name="about-aviators.html" crc="3861848583" seo="true" mt="1478595774395" redirect="true"/>
+  <file name="serviced-offices.html" crc="141787842" seo="true" mt="1478595774395" redirect="true"/>
+  <file name="table-layout.html" crc="323045256" seo="true" mt="1478595774395" redirect="true"/>
+  <file name="virtual-offices.html" crc="4003821359" seo="true" mt="1478595774395" redirect="true"/>
+  <file name="meeting---boardrooms.html" crc="4103984102" seo="true" mt="1478595774395" redirect="true"/>
+  <file name="support.html" crc="451128709" seo="true" mt="1478595774395" redirect="true"/>
+</manifest>
